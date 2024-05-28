@@ -1,0 +1,31 @@
+.container {
+
+    grid-template-columns: auto;
+    gap: 10px;
+}
+body{
+    background-color: #21496b;
+    margin-right: 100px;
+    margin-left: 100px;
+    width: 60%;
+    margin: auto;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
+
+.fieldset{
+    text-align: center;
+}
+
+ul{
+    vertical-align: middle;
+}
+
